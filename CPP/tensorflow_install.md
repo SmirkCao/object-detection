@@ -105,7 +105,7 @@ make -j8
 
 sudo make install
 
-sudo ln -s /usr/local/opencv-3.4.2 /usr/loca/opencv
+sudo ln -s /usr/local/opencv-3.4.2 /usr/local/opencv
 
 ```
 
